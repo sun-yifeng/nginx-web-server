@@ -1,0 +1,4 @@
+nginx -h 帮助命令
+nginx -v 显示版本
+nginx -V 显示版本和配置信息
+man nginx 显示帮助文档
