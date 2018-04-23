@@ -1,4 +1,9 @@
+man nginx 显示帮助文档
 nginx -h 帮助命令
 nginx -v 显示版本
 nginx -V 显示版本和配置信息
-man nginx 显示帮助文档
+nginx -t 检查服务器配置是否有语法错误
+#config脚本选项
+./configure --prefix=/Users/sunyifeng/nginx 指定nginx的安装主目录
+
+
